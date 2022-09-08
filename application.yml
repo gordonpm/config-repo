@@ -1,0 +1,9 @@
+my:
+  greeting: Hello from config server
+  list:
+    values: One,Two,Three,Four
+
+db:
+  connection: "jdbc:mysql://localhost"
+  host: 127.0.0.1
+  port: 5678
