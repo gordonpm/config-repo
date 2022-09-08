@@ -1,7 +1,7 @@
 my:
   greeting: Hello from config server
   list:
-    values: One,Two,Three,Four
+    values: One,Two,Three,Four,Five
 
 db:
   connection: "jdbc:mysql://localhost"
