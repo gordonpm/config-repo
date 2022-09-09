@@ -6,4 +6,4 @@ my:
 db:
   connection: "jdbc:mysql://localhost"
   host: 127.0.0.1
-  port: 5678
+  port: 5432
